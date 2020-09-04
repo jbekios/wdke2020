@@ -11,5 +11,5 @@ Núcleo de Investigación en Inteligencia Artificial y *Data Science*
 
 Archivos: 
 
-* RNN
-* LSTM
+* Redes neuronales recurrentes simples: RNN.ipynb
+* LSTM: lstmlab.ipynb
