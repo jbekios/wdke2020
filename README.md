@@ -8,3 +8,8 @@ Expositor: Dr. Juan Bekios Calfa
 Departamento de Ingeniería de Sistemas y Computación
 Núcleo de Investigación en Inteligencia Artificial y *Data Science*
 </pre>
+
+Archivos: 
+
+* RNN
+* LSTM
